@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
+  title : "Geonetwork UI"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "Plateforme technique fournissant des outils pour la création simplifiée d’interfaces, d’applications, de composants ou de sites web autour de la notion de catalogue, de données et de métadonnées"
   button:
     enable : true
     label : "Contact Us"

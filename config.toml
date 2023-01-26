@@ -1,4 +1,8 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://geonetwork-ui.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'GeoNetwork UI'
 theme = 'bigspring'
+
+[params.variables]
+primary_color = "#c82850"
+text_color = "#212029"
